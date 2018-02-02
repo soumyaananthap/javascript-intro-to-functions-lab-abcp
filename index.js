@@ -11,7 +11,7 @@ function sayHiToGrandma(string) {
   //var logWhisper;
   //var sayHiToGrandma;
   //return string.toUpperCase()
-}
+
 /*describe('sayHiToGrandma()', () => {
   it('I love you, Grandma.', () => {
     expect(shout('hello')).toEqual('HELLO')
