@@ -8,8 +8,8 @@ function sayHiToGrandma(string) {
   }
 }
 
-/*describe('sayHiToGrandma()', () => {
-  it('I love you, Grandma.', () => {
+/*describe('shout(string)', () => {
+  it('receives one argument and returns it in all caps', () => {
     expect(shout('hello')).toEqual('HELLO')
   })
 })*/
