@@ -7,10 +7,6 @@ function sayHiToGrandma(string) {
     return "I love you, too."
   }
 }
-  //var logShout;
-  //var logWhisper;
-  //var sayHiToGrandma;
-  //return string.toUpperCase()
 
 /*describe('sayHiToGrandma()', () => {
   it('I love you, Grandma.', () => {
