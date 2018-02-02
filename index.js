@@ -1,4 +1,4 @@
-function sayHiToGrandma() {
+function sayHiToGrandma(string) {
   var lowercase = 'whisper';
   lowercase.toLowerCase() === lowercase;
   //var logShout;
@@ -6,8 +6,8 @@ function sayHiToGrandma() {
   //var sayHiToGrandma;
   //return string.toUpperCase()
 }
-/*describe('shout(string)', () => {
-  it('receives one argument and returns it in all caps', () => {
+/*describe('sayHiToGrandma()', () => {
+  it('I love you, Grandma.', () => {
     expect(shout('hello')).toEqual('HELLO')
   })
 })*/
