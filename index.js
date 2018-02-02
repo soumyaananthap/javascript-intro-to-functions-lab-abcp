@@ -1,6 +1,6 @@
 function sayHiToGrandma() {
   var lowercase = 'whisper';
-  lowercase.toLowerCase() === lowercase
+  lowercase.toLowerCase() === lowercase;
   //var logShout;
   //var logWhisper;
   //var sayHiToGrandma;
